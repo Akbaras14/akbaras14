@@ -1,29 +1,51 @@
-Hi, I'm Akbar Aditiya Sugianto 👋
+Halo, Saya Akbar Aditiya Sugianto 👋
 
-Software Engineer | Full-Stack Developer
+Software Engineer • Full-Stack Developer • Founder Bengkel Coding
 
-I build useful, scalable, and maintainable software — from idea to production.
+Saya seorang Software Engineer yang berfokus pada pengembangan aplikasi web modern, scalable, dan mudah dikembangkan.
+Bagi saya, coding bukan sekadar membuat program berjalan, tetapi tentang memecahkan masalah dan mengubah ide menjadi solusi digital yang bernilai.
 
-const akbar = {
-  focus: ["Software Engineering", "Web Development", "System Design"],
-  stack: ["TypeScript", "Next.js", "Node.js", "Go", "Laravel"],
-  learning: ["Application Security", "DevOps", "Cloud", "AI"],
-  building: "Bengkel Coding",
-};
+👨‍💻 Yang Saya Kerjakan
 
-What I'm Into
+- Pengembangan Website & Web Application
+- Company Profile & Website Bisnis
+- Dashboard & Sistem Manajemen
+- Backend & REST API
+- Database Design
+- System Design & Software Architecture
 
-- Building modern web applications
-- Designing clean & scalable systems
-- Exploring application security and AI-assisted development
-- Turning ideas into real digital products
+⚡ Tech Stack
 
-Bengkel Coding
+TypeScript • JavaScript • Next.js • React
+Node.js • Go • Laravel
+PostgreSQL • MySQL
+Git • Docker • REST API
 
-Code • Solve • Create
+🔧 Bengkel Coding
+
+Punya ide atau membutuhkan website untuk bisnis?
+
+Melalui Bengkel Coding, saya membantu individu, UMKM, bisnis, dan organisasi mengubah kebutuhan mereka menjadi website dan aplikasi web yang fungsional serta sesuai kebutuhan.
 
 «Tempat ide digital dibengkel sampai jadi.»
 
+CODE • SOLVE • CREATE
+
+🤝 Mari Berkolaborasi
+
+Saya terbuka untuk:
+
+- Kesempatan sebagai Software Engineer
+- Project freelance pengembangan website
+- Pembuatan website bisnis & company profile
+- Pengembangan aplikasi web custom
+- Kolaborasi software development
+- Kolaborasi open source
+
+Sedang mencari developer atau punya ide project? Mari kita bangun bersama.
+
 ---
 
-Keep building. Keep learning. Solve real problems.
+<p align="center">
+  <b>Membangun software. Memecahkan masalah. Menciptakan solusi.</b>
+</p>
