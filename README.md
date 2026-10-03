@@ -96,8 +96,6 @@ Dalam mengembangkan software, saya berusaha menerapkan beberapa prinsip utama:
 
 <img src="/bengkelcoding.png" width="220" alt="Bengkel Coding Logo" />
 
-<br/><br/>
-
 ### CODE • SOLVE • CREATE
 
 **Software Development • Digital Solutions • Technology Education**
