@@ -1,10 +1,10 @@
 Hi, I'm Akbar Aditiya Sugianto 👋
 
-Software Engineer • Full-Stack Developer • Founder of Bengkel Coding
+Full-Stack Developer • Founder of Bengkel Coding
 
 I'm a Computer Science student and software engineer focused on building scalable, maintainable, and useful software solutions.
 
-I enjoy working across the full development lifecycle — from designing system architecture and APIs to building responsive user interfaces and deploying applications.
+I enjoy working across the full development lifecycle from designing system architecture and APIs to building responsive user interfaces and deploying applications.
 
 Currently exploring Software Architecture, Application Security, Cloud Infrastructure, DevOps, and AI-assisted Software Development.
 
@@ -143,7 +143,7 @@ Areas of focus:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark"
+    src="https://github-readme-stats.vercel.app/api?username=akbaras14&show_icons=true&theme=github_dark"
     alt="Akbar's GitHub Stats"
   />
 </p>
@@ -152,7 +152,7 @@ Areas of focus:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbaras14&layout=compact&theme=github_dark"
     alt="Most Used Languages"
   />
 </p>
@@ -161,7 +161,7 @@ Areas of focus:
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=github-dark-blue"
+    src="https://streak-stats.demolab.com/?user=akbaras14&theme=github-dark-blue"
     alt="GitHub Streak"
   />
 </p>
