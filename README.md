@@ -94,7 +94,7 @@ Dalam mengembangkan software, saya berusaha menerapkan beberapa prinsip utama:
 
 <div align="center">
 
-<img src="./assets/bengkel-coding-logo.png" width="180" alt="Bengkel Coding Logo" />
+<img src="/bengkelcoding.png" width="220" alt="Bengkel Coding Logo" />
 
 <br/><br/>
 
