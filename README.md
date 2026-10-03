@@ -12,8 +12,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB&label=Profile%20Views&style=flat-square" alt="Profile Views" />
-
 </div>
 
 ---
@@ -76,52 +74,6 @@ Software Engineering
 </p>
 
 **Git • GitHub • Docker • Linux • VS Code**
-
----
-
-## ⚙️ Engineering Focus
-
-Saya tidak hanya tertarik pada framework atau bahasa pemrograman tertentu. Fokus utama saya adalah bagaimana membangun software yang **terstruktur, maintainable, scalable, dan dapat berkembang mengikuti kebutuhan.**
-
-```typescript id="y7jkm3"
-interface SoftwareEngineer {
-  readonly name: string;
-  readonly role: string;
-  readonly focus: readonly string[];
-  readonly principles: readonly string[];
-  readonly currentlyExploring: readonly string[];
-}
-
-const akbar: SoftwareEngineer = {
-  name: "Akbar Aditiya Sugianto",
-
-  role: "Software Engineer",
-
-  focus: [
-    "Full-Stack Development",
-    "Backend Engineering",
-    "REST API Development",
-    "System Design",
-    "Software Architecture",
-  ],
-
-  principles: [
-    "Clean Code",
-    "SOLID Principles",
-    "Separation of Concerns",
-    "Scalability",
-    "Maintainability",
-  ],
-
-  currentlyExploring: [
-    "Microservices",
-    "DevOps",
-    "Cloud Infrastructure",
-    "Application Security",
-    "AI-Assisted Software Development",
-  ],
-} as const;
-```
 
 ---
 
@@ -208,23 +160,11 @@ Saya percaya seorang Software Engineer tidak hanya perlu mengetahui **bagaimana 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" alt="Akbar GitHub Statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=akbaras14&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" alt="Akbar GitHub Statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most Used Languages" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_GITHUB&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbaras14&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most Used Languages" />
 
 </div>
-
----
 
 ## 🎯 What I'm Building Toward
 
