@@ -160,9 +160,7 @@ Saya percaya seorang Software Engineer tidak hanya perlu mengetahui **bagaimana 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=akbaras14&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" alt="Akbar GitHub Statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbaras14&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most Used Languages" />
+<img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbaras14&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most Used Languages" />
 
 </div>
 
