@@ -8,7 +8,11 @@
 
 <br/>
 
-> **Building software. Solving problems. Creating solutions.**
+**Building Software • Solving Problems • Creating Solutions**
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB&label=Profile%20Views&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -20,11 +24,14 @@ Saya seorang **Software Engineer & Full-Stack Developer** yang berfokus pada pen
 
 Bagi saya, software development bukan sekadar membuat program berjalan. Engineering adalah tentang **memahami masalah, merancang solusi yang tepat, dan mengubah ide menjadi produk digital yang memiliki nilai nyata.**
 
+Saya tertarik pada bagaimana sebuah aplikasi dirancang dari sisi **frontend, backend, database, API, hingga software architecture**, bukan hanya bagaimana menulis kode untuk menyelesaikan sebuah fitur.
+
 Saat ini saya terus mengembangkan kemampuan di bidang:
 
-```text
+```text id="x7kv84"
 Software Engineering
-├── Full-Stack Development
+│
+├── Frontend Development
 ├── Backend Engineering
 ├── REST API Development
 ├── Database Design
@@ -38,59 +45,96 @@ Software Engineering
 
 ## 🛠️ Tech Stack
 
-### Languages & Frontend
+### 💻 Languages & Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,html,css&theme=dark" alt="Frontend Technologies" />
 </p>
 
-### Backend
+**TypeScript • JavaScript • Next.js • React • HTML • CSS**
+
+### ⚙️ Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,go,laravel,php&theme=dark" alt="Backend Technologies" />
 </p>
 
-### Database
+**Node.js • Go • Laravel • PHP • REST API**
+
+### 🗄️ Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Database Technologies" />
 </p>
 
-### Tools & Infrastructure
+**PostgreSQL • MySQL**
+
+### 🔧 Development & Infrastructure
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" alt="Development Tools" />
 </p>
 
+**Git • GitHub • Docker • Linux • VS Code**
+
 ---
 
 ## ⚙️ Engineering Focus
 
-```typescript
-const akbar = {
+Saya tidak hanya tertarik pada framework atau bahasa pemrograman tertentu. Fokus utama saya adalah bagaimana membangun software yang **terstruktur, maintainable, scalable, dan dapat berkembang mengikuti kebutuhan.**
+
+```typescript id="y7jkm3"
+interface SoftwareEngineer {
+  readonly name: string;
+  readonly role: string;
+  readonly focus: readonly string[];
+  readonly principles: readonly string[];
+  readonly currentlyExploring: readonly string[];
+}
+
+const akbar: SoftwareEngineer = {
+  name: "Akbar Aditiya Sugianto",
+
   role: "Software Engineer",
-  specialization: [
+
+  focus: [
     "Full-Stack Development",
     "Backend Engineering",
+    "REST API Development",
     "System Design",
     "Software Architecture",
   ],
+
   principles: [
     "Clean Code",
-    "SOLID",
+    "SOLID Principles",
+    "Separation of Concerns",
     "Scalability",
     "Maintainability",
   ],
+
   currentlyExploring: [
     "Microservices",
     "DevOps",
     "Cloud Infrastructure",
     "Application Security",
-    "AI-Assisted Development",
+    "AI-Assisted Software Development",
   ],
-  philosophy: "Code. Solve. Create.",
 } as const;
 ```
+
+---
+
+## 🧠 Engineering Principles
+
+Dalam mengembangkan software, saya berusaha menerapkan beberapa prinsip utama:
+
+- **Clean Code** — kode harus mudah dibaca, dipahami, dan dikembangkan.
+- **SOLID Principles** — menjaga struktur aplikasi tetap modular.
+- **Separation of Concerns** — setiap bagian aplikasi memiliki tanggung jawab yang jelas.
+- **Scalability** — mempertimbangkan bagaimana sistem berkembang ketika kebutuhan meningkat.
+- **Maintainability** — software harus tetap mudah diperbaiki dan dikembangkan.
+- **Security Awareness** — keamanan menjadi bagian dari proses development, bukan sekadar tambahan setelah aplikasi selesai.
 
 ---
 
@@ -98,19 +142,25 @@ const akbar = {
 
 <div align="center">
 
+<img src="./assets/bengkel-coding-logo.png" width="180" alt="Bengkel Coding Logo" />
+
+<br/><br/>
+
 ### CODE • SOLVE • CREATE
 
 **Software Development • Digital Solutions • Technology Education**
 
 </div>
 
+<br/>
+
 **Bengkel Coding** adalah ruang tempat saya mengembangkan solusi digital sekaligus berbagi pengetahuan mengenai software development.
 
-Saya membantu **individu, UMKM, bisnis, dan organisasi** menerjemahkan kebutuhan mereka menjadi website dan aplikasi web yang fungsional, terstruktur, dan dapat dikembangkan dalam jangka panjang.
+Melalui Bengkel Coding, saya membantu **individu, UMKM, bisnis, dan organisasi** menerjemahkan kebutuhan dan ide menjadi website maupun aplikasi web yang **fungsional, terstruktur, dan dapat dikembangkan dalam jangka panjang.**
 
-### Services
+### 💼 Services
 
-```text
+```text id="kx2aw6"
 Bengkel Coding
 │
 ├── 🌐 Company Profile
@@ -123,7 +173,34 @@ Bengkel Coding
 └── 🔧 Maintenance & Feature Development
 ```
 
-> Dari kebutuhan bisnis menjadi solusi digital yang dapat digunakan.
+<div align="center">
+
+> **Dari ide dan kebutuhan menjadi solusi digital yang bernilai.**
+
+### `CODE • SOLVE • CREATE`
+
+</div>
+
+---
+
+## 🚀 Currently Exploring
+
+Teknologi terus berkembang. Karena itu, saya terus mempelajari berbagai area di luar development aplikasi konvensional.
+
+```text id="9es6tx"
+CURRENTLY EXPLORING
+│
+├── 01. Software Architecture
+├── 02. Backend Engineering
+├── 03. Microservices Architecture
+├── 04. DevOps & CI/CD
+├── 05. Docker & Containerization
+├── 06. Cloud Infrastructure
+├── 07. Application Security
+└── 08. AI-Assisted Software Development
+```
+
+Saya percaya seorang Software Engineer tidak hanya perlu mengetahui **bagaimana sebuah teknologi digunakan**, tetapi juga memahami **mengapa teknologi tersebut dipilih, bagaimana arsitekturnya bekerja, serta trade-off dari setiap keputusan teknis.**
 
 ---
 
@@ -131,9 +208,9 @@ Bengkel Coding
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" alt="Akbar GitHub Statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most Used Languages" />
 
 </div>
 
@@ -143,25 +220,31 @@ Bengkel Coding
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_GITHUB&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_GITHUB&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity" />
 
 </div>
 
 ---
 
-## 🚀 Currently Exploring
+## 🎯 What I'm Building Toward
 
-```text
-01. Software Architecture
-02. Backend Engineering
-03. Microservices
-04. DevOps & CI/CD
-05. Cloud Infrastructure
-06. Application Security
-07. AI-Assisted Software Development
+```text id="6v8xjd"
+Write Code
+    │
+    ▼
+Solve Problems
+    │
+    ▼
+Design Systems
+    │
+    ▼
+Build Products
+    │
+    ▼
+Create Value
 ```
 
-Saya percaya seorang engineer tidak hanya perlu mengetahui **bagaimana sebuah teknologi digunakan**, tetapi juga memahami **mengapa teknologi tersebut dipilih, bagaimana arsitekturnya bekerja, dan trade-off dari setiap keputusan teknis.**
+Tujuan saya bukan hanya menjadi developer yang mampu menggunakan banyak teknologi, tetapi menjadi **Software Engineer yang mampu memahami masalah, mengambil keputusan teknis yang tepat, dan membangun solusi yang memberikan nilai nyata.**
 
 ---
 
@@ -169,20 +252,23 @@ Saya percaya seorang engineer tidak hanya perlu mengetahui **bagaimana sebuah te
 
 Saya terbuka untuk:
 
-- 💻 **Software Engineer / Full-Stack Developer opportunities**
+- 💻 **Software Engineer / Full-Stack Developer Opportunities**
 - 🌐 Website & Web Application Development
 - 🏢 Business Website & Company Profile
 - ⚙️ Custom Web Application
+- 📊 Dashboard & Management System
 - 🔌 Backend & REST API Development
 - 🏗️ Software Architecture & System Design
 - 🤝 Software Development Collaboration
 - 🌍 Open-Source Collaboration
 
-Jika Anda sedang mencari developer, membutuhkan solusi digital untuk bisnis, atau memiliki ide project yang ingin diwujudkan:
+Jika Anda sedang mencari developer, membutuhkan solusi digital untuk bisnis, atau memiliki ide project yang ingin diwujudkan, **mari berdiskusi dan membangunnya bersama.**
+
+<br/>
 
 <div align="center">
 
-### Let's build something valuable together.
+### Let's Build Something Valuable.
 
 **Software Engineering × Problem Solving × Digital Solutions**
 
@@ -192,6 +278,14 @@ Jika Anda sedang mencari developer, membutuhkan solusi digital untuk bisnis, ata
 
 <br/>
 
-<sub>Designed & maintained by <b>Akbar Aditiya Sugianto</b></sub>
+<sub>
+Built with ☕ and code by <b>Akbar Aditiya Sugianto</b>
+</sub>
+
+<br/>
+
+<sub>
+Software Engineer • Full-Stack Developer • Founder of Bengkel Coding
+</sub>
 
 </div>
